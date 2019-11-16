@@ -2,8 +2,18 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
+@import url('https://fonts.googleapis.com/css?family=Satisfy&display=swap');
+
+h1 {
+  text-align: center;
+  font-family: 'Satisfy', cursive;
+  font-size: 40px;
+  color: #43206B;
+}
+
 body {
   background: image_url('morocco.png');
+
 }
 
 .navbar {
